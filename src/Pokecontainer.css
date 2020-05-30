@@ -1,0 +1,10 @@
+.Pokecontainer {
+	text-align: center;
+}
+.Pokecontainer-cards {
+	margin-top: 0;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	height:450px;
+}
