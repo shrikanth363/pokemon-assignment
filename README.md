@@ -1,3 +1,18 @@
+----------------------------------------------------------------------------------
+
+
+Demo of the Application available at :
+https://amazing-jackson-e4cb9f.netlify.app/
+
+To run locally after download, run below commands from CLI,
+run 'npm install' to install all the dependencies mentioned in package.json.
+run 'npm start'. 
+
+The app should be running at http://localhost:3000
+
+---------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
